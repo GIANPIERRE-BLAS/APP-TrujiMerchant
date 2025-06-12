@@ -24,7 +24,7 @@
 
 ## 📖 Descripción
 
-**TrujiMerchant** es una aplicación Android que permite a comerciantes y emprendedores crear, configurar y administrar sus negocios de manera sencilla. La información gestionada en esta app se sincroniza automáticamente con la app de delivery asociada: **Trujidelivery**, garantizando una experiencia completa tanto para comerciantes como para clientes.
+**TrujiMerchant** es una aplicación Android que permite a comerciantes y emprendedores crear, configurar y administrar sus negocios de manera sencilla. La información gestionada en esta app se sincroniza automáticamente con la app de delivery asociada: [**Trujidelivery**](https://github.com/GIANPIERRE-BLAS/Trujidelivery.git), garantizando una experiencia completa tanto para comerciantes como para clientes.
 
 ### 🎯 Objetivo
 
