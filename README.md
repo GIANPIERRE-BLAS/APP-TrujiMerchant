@@ -169,7 +169,7 @@ TrujiMerchant/
 * [x] Sincronización con Trujidelivery
 * [x] Autenticación de usuarios comerciantes
 
-### En desarrollo
+### En desarrollo (Futuro)
 
 * [ ] Dashboard de ventas y estadísticas
 * [ ] Notificaciones push para nuevos pedidos
@@ -224,12 +224,33 @@ Este proyecto está bajo licencia **MIT**. Consulta el archivo [LICENSE](LICENSE
 
 ---
 
+## 📞 Soporte y Contacto
+
+### ¿Necesitas Ayuda?
+
+- 🐛 **Reportar Bug**: [Crea un Issue](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/issues)
+- 💡 **Sugerir Feature**: [Participa en Discussions](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/discussions)
+- 📧 **Contacto Directo**: [gianpierreblasflores235@gmail.com](mailto:gianpierreblasflores235@gmail.com)
+- 📖 **Documentación**: Visita la [Wiki del Proyecto](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/wiki)
+
+### ⏱️ Tiempos de Respuesta
+
+| Tipo de solicitud         | Tiempo estimado      |
+|---------------------------|----------------------|
+| 🔥 **Bugs críticos**       | 24–48 horas          |
+| 🐛 **Bugs menores**        | 3–5 días hábiles     |
+| 💡 **Nuevas Features**     | 1–2 semanas          |
+| ❓ **Consultas generales** | 1–3 días hábiles     |
+
+---
+
 <div align="center">
 
-### 🌟 ¡Apoya el proyecto con una estrella! ⭐
+### 🌟 ¡Dale una estrella si te gustó el proyecto! ⭐
 
 [![Stargazers](https://img.shields.io/github/stars/GIANPIERRE-BLAS/APP-TrujiMerchant?style=social)](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/stargazers)
 
-**Hecho con ❤️ para emprendedores del Perú**
+**Hecho con ❤️ en Trujillo, Perú**
 
 </div>
+
