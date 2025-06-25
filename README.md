@@ -115,7 +115,7 @@ Brindar una plataforma de gestión ágil y accesible para negocios locales, enfo
 ### 📥 **Pasos para instalar la aplicación**
 
 1. **⬇️ Descargar la APK**
-   👉 [Haz clic aquí para descargar TrujiMerchant.apk](https://github.com/GIANPIERRE-BLAS/Trujidelivery/raw/main/apk/TrujiMerchant.apk)
+   👉 [Haz clic aquí para descargar TrujiMerchant.apk](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/blob/main/apk/TrujiMerchant.apk)
 
 2. **📂 Abrir el archivo en tu celular**
    - Ve a la carpeta **Descargas** y toca el archivo `TrujiMerchant.apk`.
