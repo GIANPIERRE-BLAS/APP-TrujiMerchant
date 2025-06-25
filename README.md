@@ -90,10 +90,50 @@ Brindar una plataforma de gestión ágil y accesible para negocios locales, enfo
 • Google Services (Location, Maps)
 • Hilt (Inyección de dependencias)
 ```
+## 📦 Instalación para Vendedores
+
+### 🛍️ **¿Eres emprendedor? Instala TrujiMerchant y publica tu negocio**
+
+**TrujiMerchant** es la app oficial para comerciantes de Trujidelivery. Con ella puedes:
+
+- 🏪 Crear tu negocio y registrar tu tienda desde el celular.
+- 🧾 Subir productos con nombre, precio, descripción e imagen.
+- 🎯 Crear ofertas, promociones y descuentos por producto.
+- 🖼️ Editar datos de tu negocio como logo, dirección y horario.
+- 📲 Hacer que tus productos y promociones aparezcan automáticamente en la app de clientes (Trujidelivery).
 
 ---
 
-## 📦 Instalación
+### ✅ **Requisitos mínimos**
+- 📱 Dispositivo Android 5.0 (Lollipop) o superior  
+- 🌐 Conexión a Internet estable  
+- 💾 Al menos 50 MB de almacenamiento disponible  
+- 🔓 Permitir instalación desde fuentes desconocidas (solo la primera vez)
+
+---
+
+### 📥 **Pasos para instalar la aplicación**
+
+1. **⬇️ Descargar la APK**
+   👉 [Haz clic aquí para descargar TrujiMerchant.apk](https://github.com/GIANPIERRE-BLAS/Trujidelivery/raw/main/apk/TrujiMerchant.apk)
+
+2. **📂 Abrir el archivo en tu celular**
+   - Ve a la carpeta **Descargas** y toca el archivo `TrujiMerchant.apk`.
+
+3. **🔐 Permitir instalación desde fuentes desconocidas**
+   - Si es la primera vez que instalas una APK, Android te pedirá permiso.
+   - Actívalo desde:
+     ```
+     Ajustes > Seguridad > Fuentes desconocidas
+     ```
+
+4. **🚀 Usar la aplicación**
+   - Abre **TrujiMerchant** desde tu menú principal.
+   - Regístrate como vendedor.
+   - Crea tu negocio, agrega productos, activa ofertas ¡y empieza a vender hoy mismo!
+---
+
+## 📦 Instalación para desarrolladores
 
 ### Prerrequisitos
 
@@ -204,23 +244,30 @@ Este proyecto está bajo licencia **MIT**. Consulta el archivo [LICENSE](LICENSE
 
 ---
 
-## 👨‍💻 Desarrollador
+## 👨‍💻 Desarrolladores
 
 <p align="center">
-  <img src="https://github.com/GIANPIERRE-BLAS.png?size=140" width="140"/><br>
+  <img src="https://github.com/GIANPIERRE-BLAS.png?size=140" alt="Gianpierre Blas Flores" width="140"/><br>
   <strong>Gianpierre Blas Flores</strong><br>
   <em>Desarrollador Android | Computación e Informática</em><br><br>
-
+  
   <a href="https://github.com/GIANPIERRE-BLAS">
-    <img src="https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-@GIANPIERRE--BLAS-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/justo-gianpierre-blas-flores-5ba671302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gianpierre%20Blas-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:gianpierreblasflores235@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-gianpierreblasflores235@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <strong>Colaboradores:</strong><br>
+  👩‍💻 Anita Benites Venturo<br>
+  👨‍💻 Aldo Chávez Blas
+</p>
+
 
 ---
 
