@@ -115,19 +115,20 @@ Brindar una plataforma de gestión ágil y accesible para negocios locales, enfo
 ### 📥 **Pasos para instalar la aplicación**
 
 1. **⬇️ Descargar la APK**
-   👉 [Haz clic aquí para descargar TrujiMerchant.apk](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/blob/main/apk/TrujiMerchant.apk)
+2. 1. **⬇️ Descargar la APK**
+   👉 [Haz clic aquí para descargar TrujiMerchant.apk](https://github.com/GIANPIERRE-BLAS/APP-TrujiMerchant/raw/main/apk//TrujiMerchant.apk)
 
-2. **📂 Abrir el archivo en tu celular**
+3. **📂 Abrir el archivo en tu celular**
    - Ve a la carpeta **Descargas** y toca el archivo `TrujiMerchant.apk`.
 
-3. **🔐 Permitir instalación desde fuentes desconocidas**
+4. **🔐 Permitir instalación desde fuentes desconocidas**
    - Si es la primera vez que instalas una APK, Android te pedirá permiso.
    - Actívalo desde:
      ```
      Ajustes > Seguridad > Fuentes desconocidas
      ```
 
-4. **🚀 Usar la aplicación**
+5. **🚀 Usar la aplicación**
    - Abre **TrujiMerchant** desde tu menú principal.
    - Regístrate como vendedor.
    - Crea tu negocio, agrega productos, activa ofertas ¡y empieza a vender hoy mismo!
